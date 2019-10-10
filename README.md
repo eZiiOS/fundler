@@ -1,3 +1,10 @@
+TODO: 
+
+broken
+
+https://github.com/eZiiOS/fundler/blob/master/source/git/git_proxy.rb#L136
+
+
 # fundler
 Fork of bundler (enables working on bundler gems locally, via bundlers git cache)
 
